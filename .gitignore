@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local secrets / environment files
+.env
+.env.*
+*.local
+
+# Optional local exports
+heracles-ride-backup-*.json
